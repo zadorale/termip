@@ -1,3 +1,4 @@
+Simple image to colored braille ascii converter 
 Uses the stb_image.h single header library from https://github.com/nothings/stb
 example use : ./termip smolcat.png
 where this is the file:
